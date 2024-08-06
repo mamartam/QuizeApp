@@ -1,2 +1,5 @@
 # QuizeApp
 Quiz App Using JavaScript 
+
+## How does it work?
+In this quiz app we can add multiple questions and 4 answer choices for each questions. When you select any one answer the the answer button's background color will become green if it is correct answer and the background color will become red if it is wrong answer.
