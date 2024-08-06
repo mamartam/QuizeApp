@@ -6,5 +6,6 @@ In this quiz app we can add multiple questions and 4 answer choices for each que
 After selecting one answer you can not change the answer, you can only go for next question.
 When user submits the answer of last question and clicks on the next button, it will display the score.
 
-<video src="img/QuizApp.mp4" alt="videoHowItLooksLike" type="video/mp4" controls muted width="500px"></video>
+<img src="img/quiz1.png" alt="howItLooksLike1">
+<img src="img/quiz2.png" alt="howItLooksLike2">
 
